@@ -11,6 +11,7 @@
 		E3F7C4B6170ECBAC00708DCD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E3F7C4B5170ECBAC00708DCD /* main.m */; };
 		E3F7C4BA170ECBAC00708DCD /* demo1.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = E3F7C4B9170ECBAC00708DCD /* demo1.1 */; };
 		E3F7C4C2170ECBCE00708DCD /* DemoFile.m in Sources */ = {isa = PBXBuildFile; fileRef = E3F7C4C1170ECBCE00708DCD /* DemoFile.m */; };
+		E3F7C4C5170ECE4B00708DCD /* DemofileX.m in Sources */ = {isa = PBXBuildFile; fileRef = E3F7C4C4170ECE4B00708DCD /* DemofileX.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		E3F7C4B9170ECBAC00708DCD /* demo1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = demo1.1; sourceTree = "<group>"; };
 		E3F7C4C0170ECBCE00708DCD /* DemoFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoFile.h; sourceTree = "<group>"; };
 		E3F7C4C1170ECBCE00708DCD /* DemoFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoFile.m; sourceTree = "<group>"; };
+		E3F7C4C3170ECE4B00708DCD /* DemofileX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemofileX.h; sourceTree = "<group>"; };
+		E3F7C4C4170ECE4B00708DCD /* DemofileX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemofileX.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,8 @@
 				E3F7C4C1170ECBCE00708DCD /* DemoFile.m */,
 				E3F7C4B9170ECBAC00708DCD /* demo1.1 */,
 				E3F7C4B7170ECBAC00708DCD /* Supporting Files */,
+				E3F7C4C3170ECE4B00708DCD /* DemofileX.h */,
+				E3F7C4C4170ECE4B00708DCD /* DemofileX.m */,
 			);
 			path = demo1;
 			sourceTree = "<group>";
@@ -146,6 +151,7 @@
 			files = (
 				E3F7C4B6170ECBAC00708DCD /* main.m in Sources */,
 				E3F7C4C2170ECBCE00708DCD /* DemoFile.m in Sources */,
+				E3F7C4C5170ECE4B00708DCD /* DemofileX.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
